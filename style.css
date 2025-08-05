@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Modelo Computacional: Simulação com Planilhas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Simulação com Planilhas</h1>
+    <p>Um modelo computacional simples usando Excel ou Google Sheets</p>
+  </header>
+
+  <main>
+    <h2>📊 Sobre o Projeto</h2>
+    <p>
+      Este projeto demonstra como usar uma planilha para simular o crescimento populacional com base em uma fórmula matemática. O modelo permite ajustar variáveis como a população inicial, taxa de crescimento e tempo.
+    </p>
+
+    <h2>📁 Arquivos do Projeto</h2>
+    <ul>
+      <li><a href="simulacao-populacional.xlsx" download>📥 Baixar planilha Excel</a></li>
+      <li><a href="docs/explicacao-simulacao.md" target="_blank">📄 Ver explicação do modelo</a></li>
+    </ul>
+
+    <h2>📷 Exemplo de Gráfico</h2>
+    <img src="imagens/exemplo-grafico.png" alt="Gráfico de simulação populacional" />
+
+    <a class="botao" href="https://github.com/seu-usuario/modelo-computacional-simulacao-planilhas" target="_blank">🔗 Ver no GitHub</a>
+  </main>
+
+  <footer>
+    Criado por João Artur • Projeto educacional • 2025
+  </footer>
+</body>
+</html>
